@@ -13,6 +13,12 @@ Easy Integration: Simple to set up and works seamlessly within your Discord serv
 
 We welcome contributions from the community! If you have ideas for new features or find a bug, feel free to open an issue or submit a pull request.
 
+## .env Example
+```.env
+token="your discord bot's token"
+mtoken="Your MongoDB Token"
+client="Your Discord bot's ID"
+```
 ## License
 
 This project is licensed under the GNU General Public License v3.0 (GPLv3). See the LICENSE file for details.
